@@ -20,7 +20,9 @@ so you will need to do it manually but i leave anyway the payload on tool, to sh
 ---------------------
 
 Commands or tools: N/A can work without nothing installed is full system commands.
+
 Root: The tool doesn't require root, is designed to work without root to test OS local system vulns or attacks.
+
 Dictionary: By default the tool comes with an mini dictionary version from famous rockyou.txt but you can use other dictionary.
 
 ---------------------
